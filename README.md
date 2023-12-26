@@ -23,7 +23,7 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-
+![Php](https://img.shields.io/badge/-Php%20-05122A?style=flat&logo=php)&nbsp;
 
 
 
